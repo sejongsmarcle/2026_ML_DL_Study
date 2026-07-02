@@ -65,8 +65,9 @@
 	
 ### 결석 사유서
 - 결석사유서 : **결석하는 스터디 회차의 전 날까지** 운영위원에게 제출(smarcle2026@gmail.com) <br>
-[동아리 결석 사유서.hwpx](https://github.com/sejongsmarcle/2025_Deep_Learning_Study/blob/main/%EB%8F%99%EC%95%84%EB%A6%AC%20%EA%B2%B0%EC%84%9D%20%EC%82%AC%EC%9C%A0%EC%84%9C.hwpx) <br>
-[동아리 결석 사유서.docx](https://github.com/sejongsmarcle/2025_Deep_Learning_Study/blob/main/%EB%8F%99%EC%95%84%EB%A6%AC%20%EA%B2%B0%EC%84%9D%20%EC%82%AC%EC%9C%A0%EC%84%9C_word%EC%9A%A9.docx)  
+[동아리 결석 사유서.hwpx]
+(https://github.com/sejongsmarcle/-2026_Deep_Learning_Study-/blob/main/%EB%8F%99%EC%95%84%EB%A6%AC%20%EA%B2%B0%EC%84%9D%20%EC%82%AC%EC%9C%A0%EC%84%9C_word%EC%9A%A9%20(1).docx)<br>
+[동아리 결석 사유서.docx](https://github.com/sejongsmarcle/-2026_Deep_Learning_Study-/blob/main/%EB%8F%99%EC%95%84%EB%A6%AC%20%EA%B2%B0%EC%84%9D%20%EC%82%AC%EC%9C%A0%EC%84%9C%20(1).hwpx)  
 
   
 
